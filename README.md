@@ -22,15 +22,15 @@
   ## Ferramentas
   <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="luc-Wpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="luc-nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   
   <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 
   ## Sitemas
 
-  <img align="center" alt="luc-Wind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="luc-Wind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="luc-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   
 
   
