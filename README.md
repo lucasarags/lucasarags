@@ -8,6 +8,8 @@
 - ⚡ Fun fact: Minha primeira Graduação foi Engenharia Civil, tenho pós em BI e Big Data e Metodologias Ágeis ;)
 
 <div style="display: inline_block"><br>
+
+  ## Linguagens
   
   <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
